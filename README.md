@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on full-stack web developement using Html,Css,Javascript,Node.js,Express.js and Mysql
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: [Facebook- @rafat26](https://www.facebook.com/rafat26/) , [Stopstalk - @rafatkhan](https://www.stopstalk.com/user/profile/rafatkhan)
 - ⚡ Fun fact: I play CRICKET! 
 
